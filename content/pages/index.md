@@ -5,7 +5,7 @@ sections:
     title: TwinSis Vintage
     subtitle: Онлайн-магазин базовых винтажных находок
     actions: []
-    image: images/hero.svg
+    image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
