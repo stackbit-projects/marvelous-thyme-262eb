@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: TwinSis
+    title: TwinSis Vintage
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
