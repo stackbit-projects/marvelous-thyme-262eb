@@ -8,7 +8,7 @@
     "base_font": "serif",
     "header": {
         "title": "Startup",
-        "logo": "images/testimonials.png",
+        "logo": "images/background.svg",
         "logo_alt": "YourGoal logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
