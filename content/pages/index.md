@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: none
-    background_image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
+    background_image: images/background.svg
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
