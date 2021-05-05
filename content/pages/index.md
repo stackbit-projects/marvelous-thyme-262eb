@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: TwinSis Vintage
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Онлайн-магазин базовых винтажных находок
     actions:
       - label: Try for free
         url: /pricing
