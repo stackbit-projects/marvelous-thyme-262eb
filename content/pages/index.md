@@ -15,7 +15,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: none
-    background_image: images/brandon-guidelines.jpg
+    background_image: images/post-1.jpg
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
